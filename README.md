@@ -6,8 +6,8 @@ Función del Algoritmo:
 ENTRADAS:
   Edad del usuario- Entero- N
 PROCESO:
-  Pedir la edad del usuario en números enteros = N
-  Multiplicar N por 0.025 (estimado de tiempo de tiempo con los ojos cerrados debido al parpadeo)
-  Mostrar el resultado de la operación
+  Pedir la edad del usuario en números enteros = N cn el texto "Ingrese su edad en años"
+  Multiplicar N por 9.13125 (estimado de tiempo en días del tiempo con los ojos cerrados debido al parpadeo)
+  Mostrar el resultado de la operación con el texto "Haz pasado (resultado decimal) días parpadeando
 SALIDA: 
-  Número decimal 
+  Número decimal y texto
