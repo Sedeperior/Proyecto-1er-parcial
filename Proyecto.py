@@ -13,7 +13,7 @@ while True:
     resultado = (años * 365.25) + (meses * 30.5) + días
     n = resultado / 365.25
     parpa = resultado / 10
-    if resultado > 150 or resultado < 0:
+    if n > 150 or n < 0:
         print("No creo, pon tu edad real")
         continue
     actual = [n]
