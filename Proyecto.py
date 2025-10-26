@@ -10,7 +10,7 @@ while True:
     años = float(input("Años: "))
     meses = float(input("Meses: "))
     días = float(input("Días: "))
-    resultado = (años * 365.25) + (meses * 30.5) + días
+    resultado = (años * 365.25) + (meses * 30.27) + días
     n = resultado / 365.25
     parpa = resultado / 10
     if n > 150 or n < 0:
